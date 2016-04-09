@@ -36,8 +36,8 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **Vienna.js** (meetup: [viennajs](http://meetup.com/viennajs), twitter: [viennajs](https://twitter.com/viennajs))  -  @ sektor5
 - **Vienna Node.js** (meetup: [nodejs-vienna](http://meetup.com/nodejs-vienna), twitter: [nodejsvienna](https://twitter.com/nodejsvienna)) -  @ sektor5
 - **Vienna React.js** (meetup: [Vienna-ReactJS-Meetup](http://meetup.com/Vienna-ReactJS-Meetup), twitter: [reactvienna](https://twitter.com/reactvienna), github: [react-vienna](https://github.com/react-vienna)) -  @ sektor5
-- **Vienna Elm** (meetup: [Vienna-Elm-Meetup](http://meetup.com/Vienna-Elm-Meetup))
 - **Vienna Dart** (meetup: [Dart_Vienna](http://meetup.com/Dart_Vienna))  - @ Stockwerk
+- **Vienna Elm** (meetup: [Vienna-Elm-Meetup](http://meetup.com/Vienna-Elm-Meetup))
 
 
 #### Media
@@ -48,14 +48,14 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 ### Special Events
 
 - **Rails Girls Vienna**  (web: [railsgirls.com/vienna](http://railsgirls.com/vienna), twitter: [RailsGirls_VIE](https://twitter.com/RailsGirls_VIE))
-  - 2016 @ Vienna / Wien;  May/6+7  (FREE)
+  - 2016 @ Vienna / Wien;  May/6+7  (FREE) - sektor5
 
 
 ### Conferences
 
-- **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: []())
-  - 2016 @ Vienna / Wien; April/28-30  (FREE)
-  - 2015 @ Vienna / Wien; May/7-9  (FREE)
+- **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: [linuxwochen](https://twitter.com/linuxwochen))
+  - 2016 @ Vienna / Wien; April/28-30  (FREE)  - FH Technikum 
+  - 2015 @ Vienna / Wien; May/7-9  (FREE)  - FH Technikum 
 
 
 ### Misc
@@ -80,6 +80,10 @@ Metalab, Rathausstraße 6, Wien 1  (web: [metalab.at](https://metalab.at), twitt
 
 sektor5 Coworking Café+Lobby, Siebenbrunnengasse 44, Wien 5  (web: [sektor5.at](http://www.sektor5.at), twitter: [sektorfuenf](https://twitter.com/sektorfuenf))
 Stockwerk Coworking Space, Pater-Schwartz-Gasse 11A, Wien 15 (web: [stockwerk.co.at](http://www.stockwerk.co.at), twitter: [stockwerkco](https://twitter.com/stockwerkco))
+
+**T**
+
+FH Technikum Wien, Höchstädtplatz 6, Wien 12  (web: [technikum-wien.at](https://www.technikum-wien.at))  
 
 
 ## Linz
