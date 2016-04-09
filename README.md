@@ -9,8 +9,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 [Vienna / Wien](#vienna--wien) •
 [Linz](#linz) •
 [Graz](#graz) •
-[Salzburg](#salzburg) •
-[Meta](#meta)
+[Salzburg](#salzburg)
 
 
 ## Vienna • Wien
