@@ -74,16 +74,16 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 **M**
 
-Metalab, Rathausstraße 6, Wien 1  (web: [metalab.at](https://metalab.at), twitter: [metalabvie](https://twitter.com/metalabvie))
+- **Metalab**, Rathausstraße 6, Wien 1  (web: [metalab.at](https://metalab.at), twitter: [metalabvie](https://twitter.com/metalabvie))
 
 **S**
 
-sektor5 Coworking Café+Lobby, Siebenbrunnengasse 44, Wien 5  (web: [sektor5.at](http://www.sektor5.at), twitter: [sektorfuenf](https://twitter.com/sektorfuenf))
-Stockwerk Coworking Space, Pater-Schwartz-Gasse 11A, Wien 15 (web: [stockwerk.co.at](http://www.stockwerk.co.at), twitter: [stockwerkco](https://twitter.com/stockwerkco))
+- **sektor5**, Coworking Space / Café+Lobby, Siebenbrunnengasse 44, Wien 5  (web: [sektor5.at](http://www.sektor5.at), twitter: [sektorfuenf](https://twitter.com/sektorfuenf))
+- **Stockwerk**, Coworking Space, Pater-Schwartz-Gasse 11A, Wien 15 (web: [stockwerk.co.at](http://www.stockwerk.co.at), twitter: [stockwerkco](https://twitter.com/stockwerkco))
 
 **T**
 
-FH Technikum Wien, Höchstädtplatz 6, Wien 12  (web: [technikum-wien.at](https://www.technikum-wien.at))  
+- **FH Technikum Wien**, Höchstädtplatz 6, Wien 12  (web: [technikum-wien.at](https://www.technikum-wien.at))  
 
 
 ## Linz
@@ -114,7 +114,7 @@ FH Technikum Wien, Höchstädtplatz 6, Wien 12  (web: [technikum-wien.at](https:
 
 **J**
 
-FH Joanneum, Alte Poststraße 149, Graz  (web: [fh-joanneum.at](https://www.fh-joanneum.at))
+- **FH Joanneum**, Alte Poststraße 149, Graz  (web: [fh-joanneum.at](https://www.fh-joanneum.at))
 
 
 
