@@ -39,6 +39,10 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **Vienna Elm** (meetup: [Vienna-Elm-Meetup](http://meetup.com/Vienna-Elm-Meetup))
 
 
+#### Data
+
+- **Open Data & Knowledge Meetups** (meetup: [Open-Knowledge-Foundation-Austria-MeetUp](http://www.meetup.com/Open-Knowledge-Foundation-Austria-MeetUp/), twitter: [okfnat]( https://twitter.com/okfnat))
+
 #### Media
 
 - **Podcasting Meetup Österreich** (meetup: [Podcasting-Meetup-Osterreich](https://meetup.com/Podcasting-Meetup-Osterreich), twitter: [podcasterei](https://twitter.com/podcasterei)) - #podcastAT; @ Metalab
