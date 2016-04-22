@@ -41,7 +41,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 #### Data
 
-- **Open Data & Knowledge Meetups** (meetup: [Open-Knowledge-Foundation-Austria-MeetUp](http://www.meetup.com/Open-Knowledge-Foundation-Austria-MeetUp/), twitter: [okfnat]( https://twitter.com/okfnat))
+- **Open Data & Knowledge Meetup** (meetup: [Open-Knowledge-Foundation-Austria-MeetUp](http://www.meetup.com/Open-Knowledge-Foundation-Austria-MeetUp), twitter: [okfnat](https://twitter.com/okfnat))
 
 #### Media
 
