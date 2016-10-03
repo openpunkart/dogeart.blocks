@@ -127,8 +127,8 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 ### Conferences
 
-- **BarCamp Salzburg**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
-  - 2016 @ Salzburg; Apri/8-10  (FREE) - FH Salzburg
+- **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
+  - 2016 @ Salzburg; Oct/21-23 (FREE) - FH Salzburg
 
 
 ## Meta
