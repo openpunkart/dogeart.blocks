@@ -45,7 +45,7 @@ _JavaScript & Friends_
 
 #### Media
 
-- **Podcasting Meetup Österreich** (meetup: [Podcasting-Meetup-Osterreich](https://meetup.com/Podcasting-Meetup-Osterreich), twitter: [podcasterei](https://twitter.com/podcasterei)) - #podcastAT; @ Metalab
+- **Podcasting Österreich** (meetup: [Podcasting-Meetup-Osterreich](https://meetup.com/Podcasting-Meetup-Osterreich), twitter: [podcasterei](https://twitter.com/podcasterei)) - #podcastAT; @ Metalab
 
 
 ### Special Events
