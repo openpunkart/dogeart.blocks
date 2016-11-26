@@ -124,11 +124,12 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 ## Salzburg
 
-
 ### Conferences
 
 - **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
   - 2016 @ Salzburg; Oct/21-23 (FREE) - FH Salzburg
+- **DataCamp II** (web:[meetup](https://www.meetup.com/Salzburg-Big-Data-Meetup/events/231844168/)
+  - 2016 @ Salzburg;  December 7 (FREE) - FH Salzburg
 
 
 ## Meta
