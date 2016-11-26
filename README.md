@@ -76,22 +76,6 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **Open Knowledge Austria** (web: [okfn.at](http://okfn.at), twitter: [OKFNat](https://twitter.com/OKFNat), github: [okfnat](https://github.com/okfnat))
 
 
-### Venues
-
-**M**
-
-- **Metalab**, Rathausstraße 6, Wien 1  (web: [metalab.at](https://metalab.at), twitter: [metalabvie](https://twitter.com/metalabvie))
-
-**S**
-
-- **sektor5**, Coworking Space / Café+Lobby, Siebenbrunnengasse 44, Wien 5  (web: [sektor5.at](http://www.sektor5.at), twitter: [sektorfuenf](https://twitter.com/sektorfuenf))
-- **Stockwerk**, Coworking Space, Pater-Schwartz-Gasse 11A, Wien 15 (web: [stockwerk.co.at](http://www.stockwerk.co.at), twitter: [stockwerkco](https://twitter.com/stockwerkco))
-
-**T**
-
-- **FH Technikum Wien**, Höchstädtplatz 6, Wien 12  (web: [technikum-wien.at](https://www.technikum-wien.at))  
-
-
 ## Linz
 
 ### Meetups
@@ -115,16 +99,6 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
   - 2016 @ Graz; April/29+30  (FREE) -  FH Joanneum
   
 
-
-### Venues
-
-**J**
-
-- **FH Joanneum**, Alte Poststraße 149, Graz  (web: [fh-joanneum.at](https://www.fh-joanneum.at))
-
-
-
-
 ## Salzburg
 
 ### Conferences
@@ -135,10 +109,39 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
   - [2016 @ Salzburg; Dec/7](https://meetup.com/Salzburg-Big-Data-Meetup/events/231844168) (FREE) - FH Salzburg -- (No. 2 / II)
 
 
+
+
+## Venues
+
+### Vienna • Wien
+
+**M**
+
+- **Metalab**, Rathausstraße 6, Wien 1  (web: [metalab.at](https://metalab.at), twitter: [metalabvie](https://twitter.com/metalabvie))
+
+**S**
+
+- **sektor5**, Coworking Space / Café+Lobby, Siebenbrunnengasse 44, Wien 5  (web: [sektor5.at](http://www.sektor5.at), twitter: [sektorfuenf](https://twitter.com/sektorfuenf))
+- **Stockwerk**, Coworking Space, Pater-Schwartz-Gasse 11A, Wien 15 (web: [stockwerk.co.at](http://www.stockwerk.co.at), twitter: [stockwerkco](https://twitter.com/stockwerkco))
+
+**T**
+
+- **FH Technikum Wien**, Höchstädtplatz 6, Wien 12  (web: [technikum-wien.at](https://www.technikum-wien.at))  
+
+
+### Graz
+
+**J**
+
+- **FH Joanneum**, Alte Poststraße 149, Graz  (web: [fh-joanneum.at](https://www.fh-joanneum.at))
+
+
+
 ## Meta
 
 **License**
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
+
 The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
