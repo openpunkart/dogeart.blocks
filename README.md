@@ -54,11 +54,14 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
   - 2016 @ Vienna / Wien;  May/6+7  (FREE) - sektor5
 
 
-### Conferences
+### Conferences & Camps
 
 - **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: [linuxwochen](https://twitter.com/linuxwochen))
   - 2016 @ Vienna / Wien; April/28-30  (FREE)  - FH Technikum 
   - 2015 @ Vienna / Wien; May/7-9  (FREE)  - FH Technikum 
+
+- **GovCamp Vienna**
+  - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
 
 
 ### Misc
@@ -104,7 +107,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **Graz.js** (meetup: [grazjs](http://meetup.com/grazjs), twitter: [grazjs](https://twitter.com/grazjs))
 
 
-### Conferences
+### Conferences & Camps
 
 - **BarCamp Graz** (web: [barcamp-graz.at](http://barcamp-graz.at), twitter: [bcgraz](https://twitter.com/bcgraz))
   - 2016 @ Graz; April/22-24 (FREE)  - FH Joanneum
@@ -128,8 +131,8 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 - **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
   - 2016 @ Salzburg; Oct/21-23 (FREE) - FH Salzburg
-- **DataCamp II** (web:[meetup](https://www.meetup.com/Salzburg-Big-Data-Meetup/events/231844168/)
-  - 2016 @ Salzburg;  December 7 (FREE) - FH Salzburg
+- **DataCamp Salzburg**  by Salzburg Big Data (meetup: [Salzburg-Big-Data-Meetup](https://meetup.com/Salzburg-Big-Data-Meetup))
+  - [2016 @ Salzburg; Dec/7](https://meetup.com/Salzburg-Big-Data-Meetup/events/231844168) (FREE) - FH Salzburg -- (No. 2 / II)
 
 
 ## Meta
