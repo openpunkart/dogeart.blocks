@@ -137,11 +137,8 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 
 
-## Meta
-
-**License**
+## License
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
 
 The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
-
