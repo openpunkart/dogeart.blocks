@@ -29,8 +29,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **Ruby Habits** (meetup: [RubyHabits](http://meetup.com/RubyHabits), twitter: [rubyhabits](https://twitter.com/rubyhabits)) - @ sektor5
 - **Vienna PHP** (meetup: [viennaphp](http://www.meetup.com/viennaphp)) - @ Stockwerk
 
-
-**JavaScript**
+_JavaScript & Friends_
 
 - **Vienna.js** (meetup: [viennajs](http://meetup.com/viennajs), twitter: [viennajs](https://twitter.com/viennajs))  -  @ sektor5
 - **Vienna Node.js** (meetup: [nodejs-vienna](http://meetup.com/nodejs-vienna), twitter: [nodejsvienna](https://twitter.com/nodejsvienna)) -  @ sektor5
@@ -41,7 +40,8 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 #### Data
 
-- **Open Data & Knowledge Meetup** (meetup: [Open-Knowledge-Foundation-Austria-MeetUp](http://www.meetup.com/Open-Knowledge-Foundation-Austria-MeetUp), twitter: [okfnat](https://twitter.com/okfnat))
+- **Open Data & Knowledge** (meetup: [Open-Knowledge-Oesterreich](http://meetup.com/Open-Knowledge-Oesterreich), twitter: [okfnat](https://twitter.com/okfnat))
+
 
 #### Media
 
@@ -62,6 +62,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 - **GovCamp Vienna**
   - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
+
 
 
 ### Misc
