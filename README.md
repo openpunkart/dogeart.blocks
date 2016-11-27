@@ -104,7 +104,7 @@ _JavaScript & Friends_
 
 ### Meetups
 
-- **Chaostreff Salzburg** (web [sbg.chaostreff.at](https://sbg.chaostreff.at), twitter: [Chaos_SBG](https://twitter.com/Chaos_SBG)) - 1. Stock Ulrike-Gschwandtner-Straße 5
+- **Chaostreff Salzburg** (web: [sbg.chaostreff.at](https://sbg.chaostreff.at), twitter: [Chaos_SBG](https://twitter.com/Chaos_SBG)) - Hackerspace, im 1. Stock der ARGEkultur, Ulrike-Gschwandtner-Straße 5
 
 ### Conferences
 
