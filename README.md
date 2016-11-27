@@ -102,6 +102,10 @@ _JavaScript & Friends_
 
 ## Salzburg
 
+### Meetups
+
+- **Chaostreff Salzburg** (web [sbg.chaostreff.at](https://sbg.chaostreff.at)), twitter: [Chaos_SBG](https://twitter.com/Chaos_SBG) - 1. Stock Ulrike-Gschwandtner-Straße 5
+
 ### Conferences
 
 - **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
@@ -129,11 +133,6 @@ _JavaScript & Friends_
 
 - **FH Technikum Wien**, Höchstädtplatz 6, Wien 12  (web: [technikum-wien.at](https://www.technikum-wien.at))  
 
-### Salzburg
-
-**C**
-
-- **Chaostreff Salzburg**  1. Stock Ulrike-Gschwandtner-Straße 5 (web [sbg.chaostreff.at](https://sbg.chaostreff.at)), twitter: [Chaos_SBG](https://twitter.com/Chaos_SBG)
 
 ### Graz
 
