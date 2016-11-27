@@ -106,7 +106,7 @@ _JavaScript & Friends_
 
 - **Chaostreff Salzburg** (web: [sbg.chaostreff.at](https://sbg.chaostreff.at), twitter: [Chaos_SBG](https://twitter.com/Chaos_SBG)) - Hackerspace, im 1. Stock der ARGEkultur, Ulrike-Gschwandtner-Straße 5
 
-### Conferences
+### Conferences & Camps
 
 - **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
   - 2016 @ Salzburg; Oct/21-23 (FREE) - FH Salzburg
