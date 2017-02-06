@@ -62,6 +62,9 @@ _JavaScript & Friends_
   - 2016 @ Vienna / Wien; April/28-30  (FREE)  - FH Technikum 
   - 2015 @ Vienna / Wien; May/7-9  (FREE)  - FH Technikum 
 
+- **PyDays Vienna** (web: [pydays.at](https://pydays.at), twitter: [pydaysvienna](https://twitter.com/pydaysvienna))
+  - 2017 @ Vienna / Wien; May/5-6 (FREE)  - FH Technikum
+
 - **GovCamp Vienna**
   - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
 
