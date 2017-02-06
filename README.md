@@ -36,6 +36,7 @@ _JavaScript & Friends_
 - **Vienna React.js** (meetup: [Vienna-ReactJS-Meetup](http://meetup.com/Vienna-ReactJS-Meetup), twitter: [reactvienna](https://twitter.com/reactvienna), github: [react-vienna](https://github.com/react-vienna)) -  @ sektor5
 - **Vienna Dart** (meetup: [Dart_Vienna](http://meetup.com/Dart_Vienna))  - @ Stockwerk
 - **Vienna Elm** (meetup: [Vienna-Elm-Meetup](http://meetup.com/Vienna-Elm-Meetup))
+- **Vienna Reason** (meetup: [Reason-Vienna](http://meetup.com/Reason-Vienna))   #reasonml #ocaml
 
 
 #### Data
