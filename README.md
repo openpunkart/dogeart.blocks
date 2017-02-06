@@ -58,6 +58,7 @@ _JavaScript & Friends_
 ### Conferences & Camps
 
 - **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: [linuxwochen](https://twitter.com/linuxwochen))
+  - 2017 @ Vienna / Wien; May/4-6 (FREE)  - FH Technikum
   - 2016 @ Vienna / Wien; April/28-30  (FREE)  - FH Technikum 
   - 2015 @ Vienna / Wien; May/7-9  (FREE)  - FH Technikum 
 
