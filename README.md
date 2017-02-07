@@ -58,12 +58,12 @@ _JavaScript & Friends_
 ### Conferences & Camps
 
 - **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: [linuxwochen](https://twitter.com/linuxwochen))
-  - 2017 @ Vienna / Wien; May/4-6 (FREE)  - FH Technikum
+  - 2017 @ Vienna / Wien; Thu-Sat May/4-6 (FREE)  - FH Technikum
   - 2016 @ Vienna / Wien; April/28-30  (FREE)  - FH Technikum 
   - 2015 @ Vienna / Wien; May/7-9  (FREE)  - FH Technikum 
 
 - **PyDays Vienna** (web: [pydays.at](https://pydays.at), twitter: [pydaysvienna](https://twitter.com/pydaysvienna))
-  - 2017 @ Vienna / Wien; May/5-6 (FREE)  - FH Technikum
+  - 2017 @ Vienna / Wien; Fri+Sat May/5+6 (FREE)  - FH Technikum
 
 - **GovCamp Vienna**
   - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
@@ -102,7 +102,8 @@ _JavaScript & Friends_
 - **BarCamp Graz** (web: [barcamp-graz.at](http://barcamp-graz.at), twitter: [bcgraz](https://twitter.com/bcgraz))
   - 2016 @ Graz; April/22-24 (FREE)  - FH Joanneum
 - **Linux Tage Graz** (web: [linuxtage.at](https://www.linuxtage.at), twitter: [linuxtage](https://twitter.com/linuxtage))
-  - 2016 @ Graz; April/29+30  (FREE) -  FH Joanneum
+  - 2017 @ Graz; Fri+Sat April/28+29 (FREE) -  FH Joanneum 
+  - 2016 @ Graz; April/29+30 (FREE) -  FH Joanneum
   
 
 ## Salzburg
@@ -113,13 +114,14 @@ _JavaScript & Friends_
 
 ### Special Events
 
-- **Let's go Social Hackathon** (web: [eu-youthaward](https://eu-youthaward.org/hackathon-ticket-order/))
-  - 2017 @ Salzburg; Thursday, March 2, 2017 2:30 PM to Saturday, March 4, 2017, 7:30 PM (11€) - FH Salzburg
+- **Let's go Social Hackathon** (web: [eu-youthaward](https://eu-youthaward.org))
+  - [2017 @ Salzburg; Thu-Sat March/2-4](https://meetup.com/salzburgwebdev/events/237217948/) [(11€)](https://eu-youthaward.org/hackathon-ticket-order/) - FH Salzburg
 
 ### Conferences & Camps
 
 - **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
-  - 2016 @ Salzburg; Oct/21-23 (FREE) - FH Salzburg
+  - 2017 @ Salzbrug; Fri+Sat April/21+22 (FREE) - FH Salzburg
+  - 2016 @ Salzburg; Fri-Sun Oct/21-23 (FREE) - FH Salzburg
 - **DataCamp Salzburg**  by Salzburg Big Data (meetup: [Salzburg-Big-Data-Meetup](https://meetup.com/Salzburg-Big-Data-Meetup))
   - [2016 @ Salzburg; Dec/7](https://meetup.com/Salzburg-Big-Data-Meetup/events/231844168) (FREE) - FH Salzburg -- (No. 2 / II)
 
