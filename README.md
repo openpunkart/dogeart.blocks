@@ -111,6 +111,11 @@ _JavaScript & Friends_
 
 - **Chaostreff Salzburg** (web: [sbg.chaostreff.at](https://sbg.chaostreff.at), twitter: [Chaos_SBG](https://twitter.com/Chaos_SBG)) - Hackerspace, im 1. Stock der ARGEkultur, Ulrike-Gschwandtner-Straße 5
 
+### Special Events
+
+- **Let's go Social Hackathon** (web: [eu-youthaward](https://eu-youthaward.org/hackathon-ticket-order/))
+  - 2017 @ Salzburg; Thursday, March 2, 2017 2:30 PM to Saturday, March 4, 2017, 7:30 PM (11€) - FH Salzburg
+
 ### Conferences & Camps
 
 - **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
