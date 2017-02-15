@@ -49,12 +49,6 @@ _JavaScript & Friends_
 - **Podcasting Österreich** (meetup: [Podcasting-Meetup-Osterreich](https://meetup.com/Podcasting-Meetup-Osterreich), twitter: [podcasterei](https://twitter.com/podcasterei)) - #podcastAT; @ Metalab
 
 
-### Special Events
-
-- **Rails Girls Vienna**  (web: [railsgirls.com/vienna](http://railsgirls.com/vienna), twitter: [RailsGirls_VIE](https://twitter.com/RailsGirls_VIE))
-  - 2016 @ Vienna / Wien;  May/6+7  (FREE) - sektor5
-
-
 ### Conferences & Camps
 
 - **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: [linuxwochen](https://twitter.com/linuxwochen))
@@ -68,6 +62,14 @@ _JavaScript & Friends_
 - **GovCamp Vienna**
   - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
 
+
+### Special Events
+
+- **BotCampVienna & Hackathon** (web: [botbarcamp.wien](http://botbarcamp.wien), twitter: [BotBarCamp](https://twitter.com/BotBarCamp))
+  - 2017 @ Vienna / Wien, April/29+30 (FREE) - Impact Hub
+
+- **Rails Girls Vienna**  (web: [railsgirls.com/vienna](http://railsgirls.com/vienna), twitter: [RailsGirls_VIE](https://twitter.com/RailsGirls_VIE))
+  - 2016 @ Vienna / Wien;  May/6+7  (FREE) - sektor5
 
 
 ### Misc
@@ -100,7 +102,8 @@ _JavaScript & Friends_
 ### Conferences & Camps
 
 - **BarCamp Graz** (web: [barcamp-graz.at](http://barcamp-graz.at), twitter: [bcgraz](https://twitter.com/bcgraz))
-  - 2016 @ Graz; April/22-24 (FREE)  - FH Joanneum
+  - 2017 @ Graz; April/21-23 (FREE) - FH Joanneum
+  - 2016 @ Graz; April/22-24 (FREE) - FH Joanneum
 - **Linux Tage Graz** (web: [linuxtage.at](https://www.linuxtage.at), twitter: [linuxtage](https://twitter.com/linuxtage))
   - 2017 @ Graz; Fri+Sat April/28+29 (FREE) -  FH Joanneum 
   - 2016 @ Graz; April/29+30 (FREE) -  FH Joanneum
@@ -126,6 +129,13 @@ _JavaScript & Friends_
   - [2016 @ Salzburg; Dec/7](https://meetup.com/Salzburg-Big-Data-Meetup/events/231844168) (FREE) - FH Salzburg -- (No. 2 / II)
 
 
+
+## More
+
+- **BarCamp Austria** (web: [barcamp.at](https://barcamp.at)) - listing BarCamps in Austria since 2006
+
+
+---
 
 
 ## Venues
