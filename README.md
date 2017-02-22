@@ -88,8 +88,10 @@ _JavaScript & Friends_
 
 ### Meetups
 
+- **Tech Plauscherl** (web: [technologieplauscherl.at](http://technologieplauscherl.at), meetup: [Technologieplauscherl-Linz](https://meetup.com/Technologieplauscherl-Linz), twitter: [plauscherl](https://twitter.com/plauscherl), github: [technologieplauscherl](https://github.com/technologieplauscherl)) - tech 'n' coding meetup
 - **Linz.rb** (meetup: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL), twitter: [ruby_linz](https://twitter.com/ruby_linz))
 - **Stahlstadt.js** (meetup: [stahlstadt-js](http://meetup.com/stahlstadt-js), twitter: [stahlstadtjs](https://twitter.com/stahlstadtjs))
+
 
 
 ## Graz
