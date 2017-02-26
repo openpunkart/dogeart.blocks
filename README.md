@@ -49,6 +49,11 @@ _JavaScript & Friends_
 - **Podcasting Österreich** (meetup: [Podcasting-Meetup-Osterreich](https://meetup.com/Podcasting-Meetup-Osterreich), twitter: [podcasterei](https://twitter.com/podcasterei)) - #podcastAT; @ Metalab
 
 
+#### E-Commerce & Shops
+
+- **Magento Austria / Magento Stammtisch Wien** (web: [magewien.at](http://magewien.at), meetup: [magento-meetup-austria](https://meetup.com/magento-meetup-austria), twitter: [mage_AT](https://twitter.com/mage_AT))
+
+
 ### Conferences & Camps
 
 - **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: [linuxwochen](https://twitter.com/linuxwochen))
