@@ -21,7 +21,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **Vienna.html** (web: [viennahtml.github.io](http://viennahtml.github.io), github: [viennahtml](https://github.com/viennahtml), twitter: [viennahtml](https://twitter.com/viennahtml))  - bi-monthly (static) site builder meetup; we ♥ HTML & CSS; @ sektor5
 - **Vienna WordPress** (meetup: [Vienna-WordPress-Meetup](http://meetup.com/Vienna-WordPress-Meetup), twitter: [WPVienna](https://twitter.com/WPVienna)) - @ sektor5
 - **Webclerks** (meetup: [webclerks](http://meetup.com/webclerks), twitter: [wearewebclerks](https://twitter.com/wearewebclerks)) - @ Stockwerk
-- **FreeCodeCamp Vienna** (meetup: [FreeCodeCamp Vienna](https://www.meetup.com/de-DE/Free-Code-Camp-Vienna/), github: [FCC Vienna](https://github.com/FCCVienna/FCCVienna), twitter: [freecodecampvie](https://twitter.com/freecodecampvie)) - @Sektor5 & @ Stockwerk
+- **FreeCodeCamp Vienna** (meetup: [FreeCodeCamp Vienna](https://meetup.com/Free-Code-Camp-Vienna), github: [FCC Vienna](https://github.com/FCCVienna), twitter: [freecodecampvie](https://twitter.com/freecodecampvie)) - @ sektor5 & @ Stockwerk
 
 
 #### Languages / Scripting
