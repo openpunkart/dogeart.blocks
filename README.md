@@ -53,7 +53,7 @@ _JavaScript & Friends_
 
 #### Bots & Natural Language Processing & AI
 
-- **BotsHub Vienna** (meetups: [BotsHub-Vienna-Meetup](https://meetup.com/BotsHub-Vienna-Meetup), twitter: [BotsHubVienna](https://twitter.com/BotsHubVienna))
+- **BotsHub Vienna** (meetup: [BotsHub-Vienna-Meetup](https://meetup.com/BotsHub-Vienna-Meetup), twitter: [BotsHubVienna](https://twitter.com/BotsHubVienna))
 
 
 #### E-Commerce & Shops
