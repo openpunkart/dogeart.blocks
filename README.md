@@ -35,7 +35,7 @@ _JavaScript & Friends_
 
 - **Vienna.js** (meetup: [viennajs](http://meetup.com/viennajs), twitter: [viennajs](https://twitter.com/viennajs))  -  @ sektor5
 - **Vienna Node.js** (meetup: [nodejs-vienna](http://meetup.com/nodejs-vienna), twitter: [nodejsvienna](https://twitter.com/nodejsvienna)) -  @ sektor5
-- **Vienna React.js** (meetup: [Vienna-ReactJS-Meetup](http://meetup.com/Vienna-ReactJS-Meetup), twitter: [reactvienna](https://twitter.com/reactvienna), github: [react-vienna](https://github.com/react-vienna)) -  @ sektor5
+- **Vienna React.js** (meetup: [Vienna-ReactJS-Meetup](http://meetup.com/Vienna-ReactJS-Meetup), twitter: [reactvienna](https://twitter.com/reactvienna), github: [reactvienna](https://github.com/reactvienna)) -  @ sektor5
 - **Vienna Reason** (meetup: [Reason-Vienna](http://meetup.com/Reason-Vienna), twitter: [reasonvienna](https://twitter.com/reasonvienna), github: [ReasonVienna](https://github.com/ReasonVienna))   #reasonml #ocaml
 - **Vienna Elm** (meetup: [Vienna-Elm-Meetup](http://meetup.com/Vienna-Elm-Meetup))
 - **Vienna Dart** (meetup: [Dart_Vienna](http://meetup.com/Dart_Vienna))  - @ Stockwerk
