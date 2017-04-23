@@ -29,6 +29,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **Vienna.rb** (web: [vienna-rb.at](http://www.vienna-rb.at), meetup: [vienna-rb](http://meetup.com/vienna-rb), github: [vienna-rb](https://github.com/vienna-rb), twitter: [viennarb](https://twitter.com/viennarb)) - monthly ruby scripting language meetup; @ sektor5
 - **Ruby Habits** (web: [rubyhabits.github.io](http://rubyhabits.github.io), twitter: [rubyhabits](https://twitter.com/rubyhabits), github: [RubyHabits](https://github.com/RubyHabits)) - ruby and friends study group; @ sektor5
 - **Vienna PHP** (meetup: [viennaphp](http://www.meetup.com/viennaphp)) - @ Stockwerk
+- **Vienna Laravel Frameworkers (PHP)** (meetup: [Laravel-Frameworkers-Vienna](https://meetup.com/Laravel-Frameworkers-Vienna))
 
 _JavaScript & Friends_
 
