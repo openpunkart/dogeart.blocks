@@ -26,10 +26,20 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 #### Languages / Scripting
 
+_Ruby & Friends_
+
 - **Vienna.rb** (web: [vienna-rb.at](http://www.vienna-rb.at), meetup: [vienna-rb](http://meetup.com/vienna-rb), github: [vienna-rb](https://github.com/vienna-rb), twitter: [viennarb](https://twitter.com/viennarb)) - monthly ruby scripting language meetup; @ sektor5
 - **Ruby Habits** (web: [rubyhabits.github.io](http://rubyhabits.github.io), twitter: [rubyhabits](https://twitter.com/rubyhabits), github: [RubyHabits](https://github.com/RubyHabits)) - ruby and friends study group; @ sektor5
+
+_PHP & Friends_
+
 - **Vienna PHP** (meetup: [viennaphp](http://www.meetup.com/viennaphp)) - @ Stockwerk
 - **Vienna Laravel Frameworkers (PHP)** (meetup: [Laravel-Frameworkers-Vienna](https://meetup.com/Laravel-Frameworkers-Vienna))
+
+_Python & Friends_
+
+- **Python User Group Austria** (web: [pyug.at](https://pyug.at/), meetup: [PYUGAT](https://www.meetup.com/PYUGAT/), twitter: [pyugat](https://twitter.com/pyugat)) - @ Metalab
+- **Django Friends – Vienna** (meetup: [Django-Vienna](https://www.meetup.com/Django-Vienna/), twitter: [DjangoVienna](https://twitter.com/DjangoVienna))
 
 _JavaScript & Friends_
 
@@ -111,6 +121,7 @@ _JavaScript & Friends_
 ### Meetups
 
 - **Graz.js** (meetup: [grazjs](http://meetup.com/grazjs), twitter: [grazjs](https://twitter.com/grazjs))
+- **pyGRAZ** (web: [pygraz.org](https://pygraz.org/), meetup: [PyGRAZ](https://www.meetup.com/PyGRAZ/), twitter: [pygraz](https://twitter.com/pygraz))
 
 
 ### Conferences & Camps
@@ -128,6 +139,7 @@ _JavaScript & Friends_
 ### Meetups
 
 - **Chaostreff Salzburg** (web: [sbg.chaostreff.at](https://sbg.chaostreff.at), twitter: [Chaos_SBG](https://twitter.com/Chaos_SBG)) - Hackerspace, im 1. Stock der ARGEkultur, Ulrike-Gschwandtner-Straße 5
+- **SalzPUG** (web: [salzpug.at](salzpug.at), meetup: [SalzPUG](https://www.meetup.com/SalzPUG/))
 
 ### Special Events
 
