@@ -26,10 +26,14 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 #### Languages / Scripting
 
-_Ruby & Friends_
+_JavaScript & Friends_
 
-- **Vienna.rb** (web: [vienna-rb.at](http://www.vienna-rb.at), meetup: [vienna-rb](http://meetup.com/vienna-rb), github: [vienna-rb](https://github.com/vienna-rb), twitter: [viennarb](https://twitter.com/viennarb)) - monthly ruby scripting language meetup; @ sektor5
-- **Ruby Habits** (web: [rubyhabits.github.io](http://rubyhabits.github.io), twitter: [rubyhabits](https://twitter.com/rubyhabits), github: [RubyHabits](https://github.com/RubyHabits)) - ruby and friends study group; @ sektor5
+- **Vienna.js** (meetup: [viennajs](http://meetup.com/viennajs), twitter: [viennajs](https://twitter.com/viennajs))  -  @ sektor5
+- **Vienna Node.js** (meetup: [nodejs-vienna](http://meetup.com/nodejs-vienna), twitter: [nodejsvienna](https://twitter.com/nodejsvienna)) -  @ sektor5
+- **Vienna React.js** (meetup: [Vienna-ReactJS-Meetup](http://meetup.com/Vienna-ReactJS-Meetup), twitter: [reactvienna](https://twitter.com/reactvienna), github: [reactvienna](https://github.com/reactvienna)) -  @ sektor5
+- **Vienna Reason** (meetup: [Reason-Vienna](http://meetup.com/Reason-Vienna), twitter: [reasonvienna](https://twitter.com/reasonvienna), github: [ReasonVienna](https://github.com/ReasonVienna))   #reasonml #ocaml
+- **Vienna Elm** (meetup: [Vienna-Elm-Meetup](http://meetup.com/Vienna-Elm-Meetup))
+- **Vienna Dart** (meetup: [Dart_Vienna](http://meetup.com/Dart_Vienna))  - @ Stockwerk
 
 _PHP & Friends_
 
@@ -41,14 +45,10 @@ _Python & Friends_
 - **Python User Group Austria** (web: [pyug.at](https://pyug.at/), meetup: [PYUGAT](https://www.meetup.com/PYUGAT/), twitter: [pyugat](https://twitter.com/pyugat)) - @ Metalab
 - **Django Friends – Vienna** (meetup: [Django-Vienna](https://www.meetup.com/Django-Vienna/), twitter: [DjangoVienna](https://twitter.com/DjangoVienna))
 
-_JavaScript & Friends_
+_Ruby & Friends_
 
-- **Vienna.js** (meetup: [viennajs](http://meetup.com/viennajs), twitter: [viennajs](https://twitter.com/viennajs))  -  @ sektor5
-- **Vienna Node.js** (meetup: [nodejs-vienna](http://meetup.com/nodejs-vienna), twitter: [nodejsvienna](https://twitter.com/nodejsvienna)) -  @ sektor5
-- **Vienna React.js** (meetup: [Vienna-ReactJS-Meetup](http://meetup.com/Vienna-ReactJS-Meetup), twitter: [reactvienna](https://twitter.com/reactvienna), github: [reactvienna](https://github.com/reactvienna)) -  @ sektor5
-- **Vienna Reason** (meetup: [Reason-Vienna](http://meetup.com/Reason-Vienna), twitter: [reasonvienna](https://twitter.com/reasonvienna), github: [ReasonVienna](https://github.com/ReasonVienna))   #reasonml #ocaml
-- **Vienna Elm** (meetup: [Vienna-Elm-Meetup](http://meetup.com/Vienna-Elm-Meetup))
-- **Vienna Dart** (meetup: [Dart_Vienna](http://meetup.com/Dart_Vienna))  - @ Stockwerk
+- **Vienna.rb** (web: [vienna-rb.at](http://www.vienna-rb.at), meetup: [vienna-rb](http://meetup.com/vienna-rb), github: [vienna-rb](https://github.com/vienna-rb), twitter: [viennarb](https://twitter.com/viennarb)) - monthly ruby scripting language meetup; @ sektor5
+- **Ruby Habits** (web: [rubyhabits.github.io](http://rubyhabits.github.io), twitter: [rubyhabits](https://twitter.com/rubyhabits), github: [RubyHabits](https://github.com/RubyHabits)) - ruby and friends study group; @ sektor5
 
 
 #### Data
