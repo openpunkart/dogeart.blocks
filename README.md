@@ -83,6 +83,7 @@ _Ruby & Friends_
   - 2017 @ Vienna / Wien; Fri+Sat May/5+6 (FREE)  - FH Technikum
 
 - **GovCamp Vienna**
+  - [2017 @ Vienna / Wien; Dec/1](https://www.barcamp.at/GovCamp_Vienna_2017) (FREE) - BRZ im 3. Bezrik, Hintere Zollamtsstr. 4 
   - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
 
 
@@ -114,8 +115,8 @@ _Ruby & Friends_
 ### Meetups
 
 - **Tech Plauscherl** (web: [technologieplauscherl.at](http://technologieplauscherl.at), meetup: [Technologieplauscherl-Linz](https://meetup.com/Technologieplauscherl-Linz), twitter: [plauscherl](https://twitter.com/plauscherl), github: [technologieplauscherl](https://github.com/technologieplauscherl)) - tech 'n' coding meetup
-- **Linz.rb** (meetup: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL), twitter: [ruby_linz](https://twitter.com/ruby_linz))
 - **Stahlstadt.js** (meetup: [stahlstadt-js](http://meetup.com/stahlstadt-js), twitter: [stahlstadtjs](https://twitter.com/stahlstadtjs))
+- **Linz.rb** (meetup: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL), twitter: [ruby_linz](https://twitter.com/ruby_linz))
 
 
 
@@ -124,7 +125,7 @@ _Ruby & Friends_
 ### Meetups
 
 - **Graz.js** (meetup: [grazjs](http://meetup.com/grazjs), twitter: [grazjs](https://twitter.com/grazjs))
-- **pyGRAZ** (web: [pygraz.org](https://pygraz.org/), meetup: [PyGRAZ](https://www.meetup.com/PyGRAZ/), twitter: [pygraz](https://twitter.com/pygraz))
+- **pyGRAZ** (web: [pygraz.org](https://pygraz.org), meetup: [PyGRAZ](https://meetup.com/PyGRAZ), twitter: [pygraz](https://twitter.com/pygraz))
 
 
 ### Conferences & Camps
@@ -149,10 +150,14 @@ _Ruby & Friends_
 - **Let's go Social Hackathon** (web: [eu-youthaward](https://eu-youthaward.org))
   - [2017 @ Salzburg; Thu-Sat March/2-4](https://meetup.com/salzburgwebdev/events/237217948/) [(11€)](https://eu-youthaward.org/hackathon-ticket-order/) - FH Salzburg
 
+- **World Usability Day** (web: [wud-salzburg.at](https://wud-salzburg.at))
+  - 2017 @ Salzburg; Thu Nov/9 (FREE) - FH Salzburg
+
 ### Conferences & Camps
 
 - **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
-  - 2017 @ Salzbrug; Fri+Sat April/21+22 (FREE) - FH Salzburg
+  - 2017 @ Salzburg; Fri-Sat Nov/10+11 (FREE) - FH Salzburg - Web, Game, VR and Usability
+  - 2017 @ Salzburg; Fri+Sat April/21+22 (FREE) - FH Salzburg
   - 2016 @ Salzburg; Fri-Sun Oct/21-23 (FREE) - FH Salzburg
 - **DataCamp Salzburg**  by Salzburg Big Data (meetup: [Salzburg-Big-Data-Meetup](https://meetup.com/Salzburg-Big-Data-Meetup))
   - [2016 @ Salzburg; Dec/7](https://meetup.com/Salzburg-Big-Data-Meetup/events/231844168) (FREE) - FH Salzburg -- (No. 2 / II)
