@@ -43,7 +43,7 @@ _PHP & Friends_
 _Python & Friends_
 
 - **Python User Group Austria** (web: [pyug.at](https://pyug.at/), meetup: [PYUGAT](https://www.meetup.com/PYUGAT/), twitter: [pyugat](https://twitter.com/pyugat)) - @ Metalab
-- **Django Friends – Vienna** (meetup: [Django-Vienna](https://www.meetup.com/Django-Vienna/), twitter: [DjangoVienna](https://twitter.com/DjangoVienna))
+- **Django Vienna** (meetup: [Django-Vienna](https://www.meetup.com/Django-Vienna/), twitter: [DjangoVienna](https://twitter.com/DjangoVienna))
 
 _Ruby & Friends_
 
@@ -54,6 +54,7 @@ _Ruby & Friends_
 #### Data
 
 - **Open Data & Knowledge** (meetup: [Open-Knowledge-Oesterreich](http://meetup.com/Open-Knowledge-Oesterreich), twitter: [okfnat](https://twitter.com/okfnat))
+- **Vienna GraphQL** (meetup: [GraphQL-Vienna](https://meetup.com/GraphQL-Vienna))
 
 
 #### Media
