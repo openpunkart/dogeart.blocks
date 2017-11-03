@@ -79,15 +79,19 @@ _Ruby & Friends_
   - 2016 @ Vienna / Wien; April/28-30  (FREE)  - FH Technikum 
   - 2015 @ Vienna / Wien; May/7-9  (FREE)  - FH Technikum 
 
-- **PyDays Vienna** (web: [pydays.at](https://pydays.at), twitter: [pydaysvienna](https://twitter.com/pydaysvienna))
-  - 2017 @ Vienna / Wien; Fri+Sat May/5+6 (FREE)  - FH Technikum
-
 - **GovCamp Vienna**
   - [2017 @ Vienna / Wien; Dec/1](https://www.barcamp.at/GovCamp_Vienna_2017) (FREE) - BRZ im 3. Bezrik, Hintere Zollamtsstr. 4 
   - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
 
+- **Google DevFest Vienna** (web: [devfest.at](https://devfest.at))
+  - 2017 @ Vienna / Wien; Sat+Sun Nov/25+26 (FREE) - TU Wien & Stockwerk Coworking
+
+
 
 ### Special Events
+
+- **PyDays Vienna** (web: [pydays.at](https://pydays.at), twitter: [pydaysvienna](https://twitter.com/pydaysvienna))
+  - 2017 @ Vienna / Wien; Fri+Sat May/5+6 (FREE)  - FH Technikum
 
 - **BotCampVienna & Hackathon** (web: [botbarcamp.wien](http://botbarcamp.wien), twitter: [BotBarCamp](https://twitter.com/BotBarCamp))
   - 2017 @ Vienna / Wien, April/29+30 (FREE) - Impact Hub
