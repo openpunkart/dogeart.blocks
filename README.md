@@ -105,6 +105,8 @@ _Ruby & Friends_
 - **Wikimedia Österreich** (web: [wikimedia.at](https://www.wikimedia.at), twitter: [WikimediaAT](https://twitter.com/WikimediaAT))
 - **CryptoParty Austria**  (web: [cryptoparty.at](https://cryptoparty.at), twitter: [CryptoPartyWIEN](https://twitter.com/CryptoPartyWIEN))
 - **Open Knowledge Austria** (web: [okfn.at](http://okfn.at), twitter: [OKFNat](https://twitter.com/OKFNat), github: [okfnat](https://github.com/okfnat))
+- **Blockchain Austria • Blockkette Österreich (Hacker Ed.)** (github: [blockchainaustria](https://github.com/blockchainaustria))
+
 
 
 ## Linz
