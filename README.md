@@ -76,9 +76,9 @@ _Ruby & Friends_
 - **Magento Austria / Magento Stammtisch Wien** (web: [magewien.at](http://magewien.at), meetup: [magento-meetup-austria](https://meetup.com/magento-meetup-austria), twitter: [mage_AT](https://twitter.com/mage_AT))
 
 
-#### Blockchain & Cryptocurrencies
+#### Blockchains & Cryptocurrencies
 
-- [**See the Blockchain Austria (Hackers Ed.) Page »**](https://blockchainaustria.github.io)
+- [**See the Blockchain Austria • Blockkette Österreich (Hackers Ed.) Page »**](https://blockchainaustria.github.io)
 
 
 
