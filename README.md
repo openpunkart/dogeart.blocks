@@ -54,9 +54,11 @@ _Ruby & Friends_
 - **Vienna.rb** (web: [vienna-rb.at](http://www.vienna-rb.at), meetup: [vienna-rb](http://meetup.com/vienna-rb), github: [vienna-rb](https://github.com/vienna-rb), twitter: [viennarb](https://twitter.com/viennarb)) - monthly ruby scripting language meetup
 - **Ruby Habits** (web: [rubyhabits.github.io](http://rubyhabits.github.io), twitter: [rubyhabits](https://twitter.com/rubyhabits), github: [RubyHabits](https://github.com/RubyHabits)) - ruby and friends study group
 
-_Other_
+_More_
 
-- **vienna.go** (meetup: [vienna.go - Vienna Go User Group]https://www.meetup.com/vienna-go-Vienna-Go-User-Group/), github: [viennago](https://github.com/viennago), twitter: [viennagouser](https://twitter.com/viennagouser)) - monthly golang/go programming language meetup
+- **Vienna.go** (meetup: [vienna-go-Vienna-Go-User-Group](https://meetup.com/vienna-go-Vienna-Go-User-Group), github: [viennago](https://github.com/viennago), twitter: [viennagouser](https://twitter.com/viennagouser)) - monthly golang/go programming language meetup
+
+
 
 #### Data
 
