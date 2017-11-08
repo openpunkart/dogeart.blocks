@@ -199,7 +199,7 @@ _Ruby & Friends_
 **S**
 
 - **Stockwerk**, Coworking Space, Pater-Schwartz-Gasse 11A, Wien 15 (web: [stockwerk.co.at](http://www.stockwerk.co.at), twitter: [stockwerkco](https://twitter.com/stockwerkco))
-- **sektor5**, Coworking Space / Café+Lobby, Siebenbrunnengasse 44, Wien 5  (web: [sektor5.at](http://www.sektor5.at), twitter: [sektorfuenf](https://twitter.com/sektorfuenf)) -- **Closed** (in November 2017)
+- **~~sektor5~~**, Coworking Space / Café+Lobby, Siebenbrunnengasse 44, Wien 5  (web: [sektor5.at](http://www.sektor5.at), twitter: [sektorfuenf](https://twitter.com/sektorfuenf)) -- **Closed** (in November 2017)
 
 **T**
 
