@@ -22,8 +22,11 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: [linuxwochen](https://twitter.com/linuxwochen))
   - 2018 @ Vienna / Wien; Thu-Sat May/3-5 (FREE) - FH Technikum Wien
   - 2017 @ Vienna / Wien; Thu-Sat May/4-6 (FREE)  - FH Technikum
-  - 2016 @ Vienna / Wien; April/28-30  (FREE)  - FH Technikum 
-  - 2015 @ Vienna / Wien; May/7-9  (FREE)  - FH Technikum 
+  - 2016 @ Vienna / Wien; April/28-30  (FREE)  - FH Technikum
+  - 2015 @ Vienna / Wien; May/7-9  (FREE)  - FH Technikum
+- **PyDays Vienna** (web: [pydays.at](https://pydays.at), twitter: [pydaysvienna](https://twitter.com/pydaysvienna))
+  - 2018 @ Vienna / Wien; Fri+Sat May/4+5 (FREE)  - FH Technikum
+  - 2017 @ Vienna / Wien; Fri+Sat May/5+6 (FREE)  - FH Technikum
 - **GovCamp Vienna** (twitter: [gov20campAT](https://twitter.com/gov20campAT))
   - [2017 @ Vienna / Wien; Dec/1](https://www.barcamp.at/GovCamp_Vienna_2017) (FREE) - BRZ im 3. Bezrik, Hintere Zollamtsstr. 4 
   - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
@@ -36,8 +39,6 @@ _Special Events_
 
 - **EuRuKo (European Ruby Konference)** (web: [euruko.org](https://euruko.org), twitter: [euruko](https://twitter.com/euruko), github: [euruko](https://github.com/euruko))
   - 2018 @ Vienna / Wien
-- **PyDays Vienna** (web: [pydays.at](https://pydays.at), twitter: [pydaysvienna](https://twitter.com/pydaysvienna))
-  - 2017 @ Vienna / Wien; Fri+Sat May/5+6 (FREE)  - FH Technikum
 - **BotCampVienna & Hackathon** (web: [botbarcamp.wien](http://botbarcamp.wien), twitter: [BotBarCamp](https://twitter.com/BotBarCamp))
   - 2017 @ Vienna / Wien, April/29+30 (FREE) - Impact Hub
 - **Rails Girls Vienna**  (web: [railsgirls.com/vienna](http://railsgirls.com/vienna), twitter: [RailsGirls_VIE](https://twitter.com/RailsGirls_VIE))
