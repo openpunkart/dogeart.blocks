@@ -34,6 +34,8 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 _Special Events_
 
+- **EuRuKo (European Ruby Konference)** (web: [euruko.org](https://euruko.org), twitter: [euruko](https://twitter.com/euruko), github: [euruko](https://github.com/euruko))
+  - 2018 @ Vienna / Wien
 - **PyDays Vienna** (web: [pydays.at](https://pydays.at), twitter: [pydaysvienna](https://twitter.com/pydaysvienna))
   - 2017 @ Vienna / Wien; Fri+Sat May/5+6 (FREE)  - FH Technikum
 - **BotCampVienna & Hackathon** (web: [botbarcamp.wien](http://botbarcamp.wien), twitter: [BotBarCamp](https://twitter.com/BotBarCamp))
