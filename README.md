@@ -81,9 +81,6 @@ _Special Events_
 
 - **Let's go Social Hackathon** (web: [eu-youthaward](https://eu-youthaward.org))
   - [2017 @ Salzburg; Thu-Sat March/2-4](https://meetup.com/salzburgwebdev/events/237217948/) [(11€)](https://eu-youthaward.org/hackathon-ticket-order/) - FH Salzburg
-
-<!-- break -->
-
 - **World Usability Day** (web: [wud-salzburg.at](https://wud-salzburg.at))
   - 2017 @ Salzburg; Thu Nov/9 (FREE) - FH Salzburg
 
