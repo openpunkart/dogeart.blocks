@@ -19,18 +19,17 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 ## Vienna • Wien
 
-_Yearly Events_
-
 - **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: [linuxwochen](https://twitter.com/linuxwochen))
+  - 2018 @ Vienna / Wien; Thu-Sat May/3-5 (FREE) - FH Technikum Wien
   - 2017 @ Vienna / Wien; Thu-Sat May/4-6 (FREE)  - FH Technikum
   - 2016 @ Vienna / Wien; April/28-30  (FREE)  - FH Technikum 
   - 2015 @ Vienna / Wien; May/7-9  (FREE)  - FH Technikum 
 
-- **GovCamp Vienna**
+- **GovCamp Vienna** (twitter: [gov20campAT](https://twitter.com/gov20campAT))
   - [2017 @ Vienna / Wien; Dec/1](https://www.barcamp.at/GovCamp_Vienna_2017) (FREE) - BRZ im 3. Bezrik, Hintere Zollamtsstr. 4 
   - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
 
-- **Google DevFest Vienna** (web: [devfest.at](https://devfest.at))
+- **Google DevFest Vienna** (web: [devfest.at](https://devfest.at), twitter: [DevFestVienna](https://twitter.com/DevFestVienna))
   - 2017 @ Vienna / Wien; Sat+Sun Nov/25+26 (FREE) - TU Wien & Stockwerk Coworking
 
 
@@ -50,11 +49,14 @@ _Special Events_
 
 ## Linz
 
+- **ScriptConf - JavaScript Conference** (web: [scriptconf.org](https://scriptconf.org), twitter: [scriptconf](https://twitter.com/scriptconf))
+  - 2018 @ Linz; Jan/19 (€159)
+  - 2017 @ Linz; Jan/27 (€150)
+- **DevOne - Developer and Ops Conference** (web: [devone.at](https://devone.at), twitter: [DevOneLinz](https://twitter.com/DevOneLinz)) _by Dynatrace_
+  - 2018 @ Linz; April/26 (€199/169/129)
 
 
 ## Graz
-
-_Yearly Events_
 
 - **BarCamp Graz** (web: [barcamp-graz.at](http://barcamp-graz.at), twitter: [bcgraz](https://twitter.com/bcgraz))
   - 2017 @ Graz; April/21-23 (FREE) - FH Joanneum
@@ -66,10 +68,8 @@ _Yearly Events_
 
 ## Salzburg
 
-_Yearly Events_
-
 - **.concat() Web Development and UX Conference** (web: [conc.at](https://conc.at), twitter: [conc_at](https://twitter.com/conc_at), github: [conc-at](https://github.com/conc-at))
-  - 2018 @ Salzburg; Tue March/13 (225/150/90 - Regular/Early/Student)-FH Salzburg / University of Applied Sciences
+  - 2018 @ Salzburg; Tue March/13 (€225/150/90 - Regular/Early/Student)-FH Salzburg / University of Applied Sciences
 - **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
   - 2017 @ Salzburg; Fri-Sat Nov/10+11 (FREE) - FH Salzburg - Web, Game, VR and Usability
   - 2017 @ Salzburg; Fri+Sat April/21+22 (FREE) - FH Salzburg
