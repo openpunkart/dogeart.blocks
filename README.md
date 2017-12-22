@@ -59,7 +59,8 @@ _Special Events_
 - **BarCamp Graz** (web: [barcamp-graz.at](http://barcamp-graz.at), twitter: [bcgraz](https://twitter.com/bcgraz))
   - 2017 @ Graz; April/21-23 (FREE) - FH Joanneum
   - 2016 @ Graz; April/22-24 (FREE) - FH Joanneum
-- **Linux Tage Graz** (web: [linuxtage.at](https://www.linuxtage.at), twitter: [linuxtage](https://twitter.com/linuxtage))
+- **Grazer Linux Tage** (web: [linuxtage.at](https://www.linuxtage.at), twitter: [linuxtage](https://twitter.com/linuxtage))
+  - 2018 @ Graz; Fri+Sat April/27+28 (FREE) -  FH Joanneum 
   - 2017 @ Graz; Fri+Sat April/28+29 (FREE) -  FH Joanneum 
   - 2016 @ Graz; April/29+30 (FREE) -  FH Joanneum
   
