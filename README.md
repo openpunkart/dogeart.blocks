@@ -19,7 +19,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 ## Vienna • Wien
 
-### Conferences & Camps
+_Yearly Events_
 
 - **Linuxwochen Wien** (web: [linuxwochen.at](http://www.linuxwochen.at), twitter: [linuxwochen](https://twitter.com/linuxwochen))
   - 2017 @ Vienna / Wien; Thu-Sat May/4-6 (FREE)  - FH Technikum
@@ -34,7 +34,8 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
   - 2017 @ Vienna / Wien; Sat+Sun Nov/25+26 (FREE) - TU Wien & Stockwerk Coworking
 
 
-### Special Events
+
+_Special Events_
 
 - **PyDays Vienna** (web: [pydays.at](https://pydays.at), twitter: [pydaysvienna](https://twitter.com/pydaysvienna))
   - 2017 @ Vienna / Wien; Fri+Sat May/5+6 (FREE)  - FH Technikum
@@ -53,7 +54,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 ## Graz
 
-### Conferences & Camps
+_Yearly Events_
 
 - **BarCamp Graz** (web: [barcamp-graz.at](http://barcamp-graz.at), twitter: [bcgraz](https://twitter.com/bcgraz))
   - 2017 @ Graz; April/21-23 (FREE) - FH Joanneum
@@ -65,7 +66,19 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 
 ## Salzburg
 
-### Special Events
+_Yearly Events_
+
+- **.concat() Web Development and UX Conference** (web: [conc.at](https://conc.at), twitter: [conc_at](https://twitter.com/conc_at), github: [conc-at](https://github.com/conc-at))
+  - 2018 @ Salzburg; Tue March/13 (225/150/90 - Regular/Early/Student)-FH Salzburg / University of Applied Sciences
+- **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
+  - 2017 @ Salzburg; Fri-Sat Nov/10+11 (FREE) - FH Salzburg - Web, Game, VR and Usability
+  - 2017 @ Salzburg; Fri+Sat April/21+22 (FREE) - FH Salzburg
+  - 2016 @ Salzburg; Fri-Sun Oct/21-23 (FREE) - FH Salzburg
+- **DataCamp Salzburg**  by Salzburg Big Data (meetup: [Salzburg-Big-Data-Meetup](https://meetup.com/Salzburg-Big-Data-Meetup))
+  - [2016 @ Salzburg; Dec/7](https://meetup.com/Salzburg-Big-Data-Meetup/events/231844168) (FREE) - FH Salzburg -- (No. 2 / II)
+
+
+_Special Events_
 
 - **Let's go Social Hackathon** (web: [eu-youthaward](https://eu-youthaward.org))
   - [2017 @ Salzburg; Thu-Sat March/2-4](https://meetup.com/salzburgwebdev/events/237217948/) [(11€)](https://eu-youthaward.org/hackathon-ticket-order/) - FH Salzburg
@@ -75,14 +88,6 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **World Usability Day** (web: [wud-salzburg.at](https://wud-salzburg.at))
   - 2017 @ Salzburg; Thu Nov/9 (FREE) - FH Salzburg
 
-### Conferences & Camps
-
-- **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
-  - 2017 @ Salzburg; Fri-Sat Nov/10+11 (FREE) - FH Salzburg - Web, Game, VR and Usability
-  - 2017 @ Salzburg; Fri+Sat April/21+22 (FREE) - FH Salzburg
-  - 2016 @ Salzburg; Fri-Sun Oct/21-23 (FREE) - FH Salzburg
-- **DataCamp Salzburg**  by Salzburg Big Data (meetup: [Salzburg-Big-Data-Meetup](https://meetup.com/Salzburg-Big-Data-Meetup))
-  - [2016 @ Salzburg; Dec/7](https://meetup.com/Salzburg-Big-Data-Meetup/events/231844168) (FREE) - FH Salzburg -- (No. 2 / II)
 
 
 ## License
