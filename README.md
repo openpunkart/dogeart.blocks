@@ -1,6 +1,6 @@
 {% comment %}
 
-See live @ [`austriacodes.github.io/showcase` »](https://austriacodes.github.io/showcase)
+Note, this is source code version, see live @ [`austriacodes.github.io/awesome-austria` »](https://austriacodes.github.io/awesome-austria).
 
 {% endcomment %}
 
