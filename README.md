@@ -1,6 +1,6 @@
 {% comment %}
 
-Note, this is source code version, see live web pages @ [`austriacodes.github.io/awesome-austria` »](https://austriacodes.github.io/awesome-austria).
+Note, this is the source code version, see the live web pages @ [`austriacodes.github.io/awesome-austria` »](https://austriacodes.github.io/awesome-austria).
 
 {% endcomment %}
 
