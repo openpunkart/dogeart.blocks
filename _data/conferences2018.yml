@@ -4,8 +4,20 @@
 #  published at the Calendar @ Austria Codes
 #    see https://austriacodes.github.io/calendar/2018
 
+
+- name:        ScriptConf - JavaScript Conference
+  location:    Linz
+  start:       2018-01-19    ## Jan/19
+  end:         2018-01-19
+  days:        1
+  month:       1
+  url:         https://scriptconf.org
+  twitter:     scriptconf
+  tickets:     (€159)
+
+
 - name:        .concat() Web Development and UX Conference
-  location:    Salzburg @ FH Salzburg / University of Applied Sciences
+  location:    Salzburg, FH Salzburg / University of Applied Sciences
   start:       2018-03-13   ## Tue March/13
   end:         2018-03-13
   days:        1
@@ -15,8 +27,20 @@
   tickets:     (€225/150/90 - Regular/Early/Student)
 
 
+- name:        Grazer Linux Tage
+  location:    Graz, FH Joanneum
+  start:       2018-04-27    ## Fri+Sat April/27+28
+  end:         2018-04-28
+  days:        2
+  month:       4
+  url:         https://www.linuxtage.at
+  twitter:     linuxtage
+  tickets:     (FREE)
+
+
+
 - name:        Linuxwochen Wien
-  location:    Vienna / Wien @ FH Technikum Wien
+  location:    Vienna / Wien, FH Technikum Wien
   start:       2018-05-03            ## Thu-Sat May/3-5
   end:         2018-05-05
   days:        3
@@ -26,7 +50,7 @@
   tickets:     (FREE)
 
 - name:        PyDays Vienna
-  location:    Vienna / Wien @ FH Technikum Wien
+  location:    Vienna / Wien, FH Technikum Wien
   start:       2018-05-04             ## Fri+Sat May/4+5
   end:         2018-05-05
   days:        2
@@ -38,7 +62,7 @@
 
 
 - name:       European Ruby Conference (EuRuKo)
-  location:   Vienna, Austria
+  location:   Vienna / Wien
   note:       Upcoming this summer
   month:      8
   url:        http://euruko.org
