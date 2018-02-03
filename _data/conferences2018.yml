@@ -17,16 +17,6 @@
 
 
 
-- name:        ReasonConf for Web Devs 'n' OCaml (Objective Caml) Enthusiasts
-  location:    Vienna / Wien
-  start:       2018-03-11   ## 11–13 May 2018
-  end:         2018-03-13
-  days:        3
-  month:       3
-  url:         https://www.reason-conf.com/
-  twitter:     reasonconf
-
-
 - name:        .concat() Web Development and UX Conference
   location:    Salzburg, FH Salzburg / University of Applied Sciences
   start:       2018-03-13   ## Tue March/13
@@ -69,6 +59,16 @@
   url:         https://pydays.at
   twitter:     pydaysvienna
   tickets:     (FREE)
+
+
+- name:        ReasonConf for Web Devs 'n' OCaml (Objective Caml) Enthusiasts
+  location:    Vienna / Wien
+  start:       2018-05-11   ## 11–13 May 2018
+  end:         2018-05-13
+  days:        3
+  month:       5
+  url:         https://www.reason-conf.com/
+  twitter:     reasonconf
 
 
 
