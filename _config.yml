@@ -1,7 +1,6 @@
 exclude:
 - LICENSE.md
 - NOTES.md
-- advent2018/NOTES.md
 
 
 plugins:

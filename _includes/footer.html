@@ -1,0 +1,13 @@
+
+<!-- debug:
+  page.path: -I {{ page.path }} I-
+  -->
+
+{% if page.path == "README.md" %}
+
+{% else %}
+   <hr>
+   <div style="font-size: 80%;">
+     From the <a href="{{ '/' | relative_url }}">Calendar @ Austria Codes</a>.
+   </div>
+{% endif %}
