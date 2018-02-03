@@ -3,13 +3,10 @@
 A collection of awesome events (meetups, conferences, camps, etc.) from around Austria • Österreich
 
 
-
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+_Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
 ## Conferences & Camps
-
-> Note: See the [MEETUPS](MEETUPS.md) page for meetups and organizations.
 
 [Vienna / Wien](#vienna--wien) •
 [Linz](#linz) •
@@ -28,8 +25,8 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
   - 2018 @ Vienna / Wien; Fri+Sat May/4+5 (FREE)  - FH Technikum
   - 2017 @ Vienna / Wien; Fri+Sat May/5+6 (FREE)  - FH Technikum
 - **GovCamp Vienna** (twitter: [gov20campAT](https://twitter.com/gov20campAT))
-  - [2017 @ Vienna / Wien; Dec/1](https://www.barcamp.at/GovCamp_Vienna_2017) (FREE) - BRZ im 3. Bezrik, Hintere Zollamtsstr. 4 
-  - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11 
+  - [2017 @ Vienna / Wien; Dec/1](https://www.barcamp.at/GovCamp_Vienna_2017) (FREE) - BRZ im 3. Bezrik, Hintere Zollamtsstr. 4
+  - [2016 @ Vienna / Wien; Dec/2](https://www.barcamp.at/GovCamp_Vienna_2016) (FREE) - Verwaltungsakademie der Stadt Wien im 2. Bezirk, Rotensterngasse 9-11
 - **Google DevFest Vienna** (web: [devfest.at](https://devfest.at), twitter: [DevFestVienna](https://twitter.com/DevFestVienna))
   - 2017 @ Vienna / Wien; Sat+Sun Nov/25+26 (FREE) - TU Wien & Stockwerk Coworking
 
@@ -61,10 +58,10 @@ _Special Events_
   - 2017 @ Graz; April/21-23 (FREE) - FH Joanneum
   - 2016 @ Graz; April/22-24 (FREE) - FH Joanneum
 - **Grazer Linux Tage** (web: [linuxtage.at](https://www.linuxtage.at), twitter: [linuxtage](https://twitter.com/linuxtage))
-  - 2018 @ Graz; Fri+Sat April/27+28 (FREE) -  FH Joanneum 
-  - 2017 @ Graz; Fri+Sat April/28+29 (FREE) -  FH Joanneum 
+  - 2018 @ Graz; Fri+Sat April/27+28 (FREE) -  FH Joanneum
+  - 2017 @ Graz; Fri+Sat April/28+29 (FREE) -  FH Joanneum
   - 2016 @ Graz; April/29+30 (FREE) -  FH Joanneum
-  
+
 
 ## Salzburg
 

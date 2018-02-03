@@ -3,12 +3,10 @@
 A collection of awesome events (meetups, conferences, camps, etc.) from around Austria • Österreich
 
 
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+_Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
 ## Meetups & Organizations
-
-> Note: See the [README](README.md) page for conferences and camps.
 
 
 [Vienna / Wien](#vienna--wien) •
@@ -36,9 +34,9 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 _JavaScript & Friends_
 
 - **Vienna.js** (meetup: [viennajs](http://meetup.com/viennajs), twitter: [viennajs](https://twitter.com/viennajs))  
-- **Vienna Node.js** (meetup: [nodejs-vienna](http://meetup.com/nodejs-vienna), twitter: [nodejsvienna](https://twitter.com/nodejsvienna)) 
+- **Vienna Node.js** (meetup: [nodejs-vienna](http://meetup.com/nodejs-vienna), twitter: [nodejsvienna](https://twitter.com/nodejsvienna))
 - **Vienna Vue.js** (meetup: [Vue-js-Vienna](https://meetup.com/Vue-js-Vienna), twitter: [vuejsvienna](https://twitter.com/vuejsvienna))
-- **Vienna React.js** (meetup: [Vienna-ReactJS-Meetup](http://meetup.com/Vienna-ReactJS-Meetup), twitter: [reactvienna](https://twitter.com/reactvienna), github: [reactvienna](https://github.com/reactvienna)) 
+- **Vienna React.js** (meetup: [Vienna-ReactJS-Meetup](http://meetup.com/Vienna-ReactJS-Meetup), twitter: [reactvienna](https://twitter.com/reactvienna), github: [reactvienna](https://github.com/reactvienna))
 - **Vienna Reason** (meetup: [Reason-Vienna](http://meetup.com/Reason-Vienna), twitter: [reasonvienna](https://twitter.com/reasonvienna), github: [ReasonVienna](https://github.com/ReasonVienna))   #reasonml #ocaml
 - **Vienna Elm** (meetup: [Vienna-Elm-Meetup](http://meetup.com/Vienna-Elm-Meetup))
 - **Vienna Dart** (meetup: [Dart_Vienna](http://meetup.com/Dart_Vienna))  - @ Stockwerk
@@ -93,7 +91,7 @@ _More_
 
 ### Misc
 
-- **Aua Uff Code Podcast**  (web: [aua-uff-co.de](https://aua-uff-co.de), twitter: [AuaUffCode](https://twitter.com/AuaUffCode), github: [aua-uff-code](https://github.com/aua-uff-code)) - "An Hour of Code"; Podcast about Coding hosted by Anna Geiger n Stefan Haslinger 
+- **Aua Uff Code Podcast**  (web: [aua-uff-co.de](https://aua-uff-co.de), twitter: [AuaUffCode](https://twitter.com/AuaUffCode), github: [aua-uff-code](https://github.com/aua-uff-code)) - "An Hour of Code"; Podcast about Coding hosted by Anna Geiger n Stefan Haslinger
 
 
 ### Orgs / Initiatives

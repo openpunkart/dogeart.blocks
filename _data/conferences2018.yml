@@ -1,0 +1,45 @@
+########################################################
+#  conferences & camps from around austria in 2018
+#
+#  published at the Calendar @ Austria Codes
+#    see https://austriacodes.github.io/calendar/2018
+
+- name:        .concat() Web Development and UX Conference
+  location:    Salzburg @ FH Salzburg / University of Applied Sciences
+  start:       2018-03-13   ## Tue March/13
+  end:         2018-03-13
+  days:        1
+  month:       3
+  url:         https://conc.at
+  twitter:     conc_at
+  tickets:     (€225/150/90 - Regular/Early/Student)
+
+
+- name:        Linuxwochen Wien
+  location:    Vienna / Wien @ FH Technikum Wien
+  start:       2018-05-03            ## Thu-Sat May/3-5
+  end:         2018-05-05
+  days:        3
+  month:       5
+  url:         http://www.linuxwochen.at
+  twitter:     linuxwochen
+  tickets:     (FREE)
+
+- name:        PyDays Vienna
+  location:    Vienna / Wien @ FH Technikum Wien
+  start:       2018-05-04             ## Fri+Sat May/4+5
+  end:         2018-05-05
+  days:        2
+  month:       5
+  url:         https://pydays.at
+  twitter:     pydaysvienna
+  tickets:     (FREE)
+
+
+
+- name:       European Ruby Conference (EuRuKo)
+  location:   Vienna, Austria
+  note:       Upcoming this summer
+  month:      8
+  url:        http://euruko.org
+  twitter:    euruko
