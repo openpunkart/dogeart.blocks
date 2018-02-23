@@ -17,6 +17,16 @@
 
 
 
+- name:        Open Data Day Vienna 2018
+  location:    Vienna / Wien
+  start:       2018-03-01
+  end:         2018-03-01
+  days:        1
+  month:       3
+  url:         https://open.wien.gv.at/site/der-open-data-day-2018-wien-ist-dabei
+  twitter:     ogdwien
+  tickets:     (FREE)
+
 - name:        .concat() Web Development and UX Conference
   location:    Salzburg, FH Salzburg / University of Applied Sciences
   start:       2018-03-13   ## Tue March/13
