@@ -27,6 +27,18 @@
   twitter:     ogdwien
   tickets:     (FREE)
 
+
+- name:        Barcamp Salzburg, 10-Year Muli Media Technology Anniversary Edition
+  location:    Salzburg, FH Salzburg / University of Applied Sciences
+  start:       2018-03-02    # March/2 2018
+  end:         2018-03-02
+  days:        1
+  month:       3
+  url:         https://barcamp-sbg.at
+  twitter:     salzburgwebdev
+  tickets:     (FREE)
+  
+
 - name:        .concat() Web Development and UX Conference
   location:    Salzburg, FH Salzburg / University of Applied Sciences
   start:       2018-03-13   ## Tue March/13
@@ -102,3 +114,14 @@
   month:      8
   url:        http://euruko.org
   twitter:    euruko
+
+
+- name:        Barcamp Salzburg, The Next Web Edition
+  location:    Salzburg, FH Salzburg / University of Applied Sciences
+  start:       2018-09-09
+  end:         2018-09-10
+  days:        2
+  month:       9
+  url:         https://barcamp-sbg.at
+  twitter:     salzburgwebdev
+  tickets:     (FREE)
