@@ -41,8 +41,8 @@
 
 - name:        .concat() Web Development and UX Conference
   location:    Salzburg, FH Salzburg / University of Applied Sciences
-  start:       2018-03-13   ## Tue March/13
-  end:         2018-03-13
+  start:       2018-03-03   ## Tue March/03
+  end:         2018-03-03
   days:        1
   month:       3
   url:         https://conc.at
