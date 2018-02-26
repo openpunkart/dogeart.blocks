@@ -118,10 +118,10 @@
 
 - name:        BarCamp Salzburg, The Next Web Edition
   location:    Salzburg, FH Salzburg / University of Applied Sciences
-  start:       2018-09-09
-  end:         2018-09-10
+  start:       2018-11-09
+  end:         2018-11-10
   days:        2
-  month:       9
+  month:       11
   url:         https://barcamp-sbg.at
   twitter:     salzburgwebdev
   tickets:     (FREE)
