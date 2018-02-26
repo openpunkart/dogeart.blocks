@@ -66,7 +66,7 @@ _Special Events_
 ## Salzburg
 
 - **.concat() Web Development and UX Conference** (web: [conc.at](https://conc.at), twitter: [conc_at](https://twitter.com/conc_at), github: [conc-at](https://github.com/conc-at))
-  - 2018 @ Salzburg; Tue March/13 (€225/150/90 - Regular/Early/Student)-FH Salzburg / University of Applied Sciences
+  - 2018 @ Salzburg; Sat March/3 (€225/150/90 - Regular/Early/Student)-FH Salzburg / University of Applied Sciences
 - **BarCamp Salzburg (The Next Web)**  (web: [barcamp-sbg.at](https://barcamp-sbg.at))
   - 2017 @ Salzburg; Fri-Sat Nov/10+11 (FREE) - FH Salzburg - Web, Game, VR and Usability
   - 2017 @ Salzburg; Fri+Sat April/21+22 (FREE) - FH Salzburg
