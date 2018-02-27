@@ -17,7 +17,7 @@
 
 
 
-- name:        Open Data Day Vienna 2018
+- name:        Open Data Day Vienna
   location:    Vienna / Wien
   start:       2018-03-01
   end:         2018-03-01
@@ -50,7 +50,18 @@
   tickets:     (€225/150/90 - Regular/Early/Student)
 
 
-- name:        WordCamp Vienna 2018
+- name:        Women Techmakers Vienna
+  location:    Vienna / Wien, Technische Universität Wien, Kuppelsaal
+  start:       2018-03-10
+  end:         2018-03-10
+  days:        1
+  month:       3
+  url:         http://womentechmakers.at
+  twitter:     wtmvienna
+  tickets:     (FREE)
+
+
+- name:        WordCamp Vienna
   location:    Vienna / Wien, Uni Campus in Altes AKH
   start:       2018-04-07
   end:         2018-04-08
