@@ -71,6 +71,17 @@
   twitter:     wpvienna
   tickets:     (€20)
 
+- name:        DevOne - Developer and Ops Conference
+  location:    Linz, Tabakfabrik
+  start:       2018-04-26 
+  end:         2018-04-26
+  days:        1
+  month:       4
+  url:         https://devone.at
+  twitter:     https://twitter.com/DevOneLinz
+  tickets:     (€169)
+
+
 - name:        Grazer Linux Tage
   location:    Graz, FH Joanneum
   start:       2018-04-27    ## Fri+Sat April/27+28
