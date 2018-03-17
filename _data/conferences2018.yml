@@ -147,6 +147,16 @@
   twitter:    euruko
 
 
+- name:        SoCraTes (Software Craftsmanship and Testing) Days
+  location:    Linz
+  start:       2018-10-12
+  end:         2018-10-13
+  days:        2
+  month:       10
+  url:         https://socrates-conference.at
+  twitter:     socratesat
+  tickets:    (€80/40- Regular/Early)
+
 - name:        BarCamp Salzburg, The Next Web Edition
   location:    Salzburg, FH Salzburg / University of Applied Sciences
   start:       2018-11-09
