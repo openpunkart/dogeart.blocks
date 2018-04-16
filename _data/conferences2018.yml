@@ -125,6 +125,17 @@
   twitter:     reasonconf
   tickets:     (€350)
 
+- name:        WorkerConf - The Future of Node.js, Server Side Code 'n' Cloud Infrastructure
+  location:    Dornbirn, Voralberg
+  start:       2018-06-28
+  end:         2018-06-28
+  days:        1
+  month:       6
+  url:         https://worker.sh
+  twitter:     workerconf
+  tickets:     (€95/Early Bird)
+
+
 - name:        KDE Akademy
   location:    Vienna / Wien, Technische Universität (TU) Wien
   start:       2018-08-11   ## 11–17 August 2018
