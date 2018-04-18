@@ -125,6 +125,18 @@
   twitter:     reasonconf
   tickets:     (€350)
 
+
+- name:        Uncodeference - Web development Unconference
+  location:    Wattens, Tyrol 
+  start:       2018-05-25    ## May 25th, 2018
+  end:         2018-05-25
+  days:        1
+  month:       5
+  url:         https://uncodeference.io
+  twitter:     uncodeference
+  tickets:     (FREE)
+
+
 - name:        WorkerConf - The Future of Node.js, Server Side Code 'n' Cloud Infrastructure
   location:    Dornbirn, Voralberg
   start:       2018-06-28
@@ -133,7 +145,7 @@
   month:       6
   url:         https://worker.sh
   twitter:     workerconf
-  tickets:     (€95/Early Bird)
+  tickets:     (€95 - Early Bird)
 
 
 - name:        KDE Akademy
