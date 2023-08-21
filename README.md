@@ -1,18 +1,14 @@
-{% comment %}
-
-Note, this is the source code version, see the live web pages @ [`austriacodes.github.io/awesome-austria` »](https://austriacodes.github.io/awesome-austria).
-
-{% endcomment %}
+# Doge (Shiba-Inu) Building Blocks
 
 
-# Awesome Austria @ Austria Codes
-
-_2018_
-
-- [**Conferences & Camps in Austria • Österreich - What's Upcoming in 2018?**](2018.md)
 
 
-_Awesome Austria_
 
-- [Awesome Conferences & Camps](CONFERENCES.md) - A collection about conferences, camps and more from around Austria • Österreich
-- [Awesome Meetups & Organizations](MEETUPS.md) - A collection about meetups, learn coding or diversity organizations and more from around Austria • Österreich
+## Questions? Comments?
+
+Join us in the [Punk Art discord (chat server)](https://discord.gg/FE3HeXNKRa). Yes you can.
+Your questions and commentary welcome.
+
+Or post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
+
+
